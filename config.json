@@ -1,6 +1,6 @@
 {
    "_comment1":"Credits Visa2Code",
-   "token":"ODU5NzI0MDQ2MDA1OTYwNzA1.YNw2aQ.pkJyRp1DiiqoVNJM5DSFCpdT8Ow",
+   "token":"",
    "ExpressServer":true,
    "prefix":"!",
    "port":3000,
@@ -8,16 +8,16 @@
       "name":"People",
       "type":"watching"
    },
-   "server_id":"860874073835569154",
+   "server_id":"",
    "logger":{
       "enabled":true,
-      "channel_id":"932257908106883072",
+      "channel_id":"",
       "bots":false,
       "humans":false
    },
    "staff_system":{
       "enabled":true,
-      "channel_id":"932257908106883072",
+      "channel_id":"",
       "perms":[
          "MANAGE_GUILD"
       ]
