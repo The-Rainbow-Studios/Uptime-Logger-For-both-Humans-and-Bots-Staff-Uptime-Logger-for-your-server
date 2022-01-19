@@ -1,11 +1,11 @@
 # Uptime Logger [For both Humans and Bots] + Staff Uptime Logger for your server's 
 
 ### Table of contents
-- What is it?
-- How to get it to work?
-- Self-Hosting Agreement
-- Video Making Agreement
-- Credits
+- [What is it?](#what-is-it)
+- [How to get it to work?](#how-to-get-it-to-work)
+- [Self-Hosting Agreement](#self-hosting-agreement)
+- [Video Making Agreement](#video-making-agreement)
+- [Credits](#credits)
 
 ## What is it? 
 Its a bot I made it using `discord.js v13`. It has two features
@@ -15,7 +15,7 @@ Its a bot I made it using `discord.js v13`. It has two features
 Its pretty simple just follow these steps
 
 1. Star + Fork the repo 
-2. Watch this video explaining all stuff
+2. [Watch this video explaining all stuff]()
 
 ## Self-Hosting Agreement
 - You have to mention me anywhere while using the code
