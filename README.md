@@ -39,4 +39,4 @@ __**Any video not following this will be taken down!**__
 
 
 ### License
-- [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [GNU GPL (General Public License)](https://www.gnu.org/licenses)
